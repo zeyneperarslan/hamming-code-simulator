@@ -33,16 +33,6 @@ python hamming_gui.py
 
 ---
 
-## 📸 GUI Screenshot (Optional)
-
-You can add a screenshot like this:
-
-```markdown
-![App Screenshot](screenshot.png)
-```
-
----
-
 ## 🧠 What is Hamming Code?
 
 Hamming Code is an error-detection and correction method that uses parity bits at positions that are powers of two. It can detect and correct **single-bit errors**, making it highly efficient for data integrity in digital communication.
